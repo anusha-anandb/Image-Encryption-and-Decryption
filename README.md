@@ -1,5 +1,5 @@
 # Image-Encryption-and-Decryption
-# MainProject
+# MinorProject
 
 
 ## Contributors:<br/>
